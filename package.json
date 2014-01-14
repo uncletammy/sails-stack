@@ -1,0 +1,30 @@
+{
+  "name": "sails-stack",
+  "version": "0.1",
+  "description": "Stack Overflow adapter for the Sails.js Framework",
+  "main": "./lib/adapter.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "stack",
+    "sails"
+  ],
+  "contributors": [
+    {
+      "name": "Nicholas Crumrine",
+      "email": "uncletammy@yahoo.com"
+    }
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:uncletammy/sails-stack.git"
+  },
+  "dependencies": {
+    "async": "0.2.9",
+  },
+  "devDependencies": {
+  }
+}
