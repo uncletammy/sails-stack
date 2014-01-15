@@ -1,6 +1,5 @@
 {
   "name": "sails-stack",
-  "version": "0.1",
   "description": "Stack Overflow adapter for the Sails.js Framework",
   "main": "./lib/adapter.js",
   "scripts": {
